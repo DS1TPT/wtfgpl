@@ -1,7 +1,8 @@
 # WTFGPL
 
-Do What The Fuck You Want To Greater Public License, a modified version of <[WTFPL](https://www.wtfpl.net/about/)>, with "AS IS" clause and "Don't bitch to me" condition.  
 ![alt text](https://github.com/DS1TPT/wtfgpl/blob/main/wtfgpl.png)  
+
+Do What The Fuck You Want To Greater Public License, a license derived from the <[WTFPL](https://www.wtfpl.net/about/)>, with "AS IS" clause and "Don't bitch to me" condition.  
 
 What is this?
 -------------- 
